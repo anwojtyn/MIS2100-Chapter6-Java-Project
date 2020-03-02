@@ -13,4 +13,9 @@ public class SimpleMath {
 			
 		
 	}
+	
+	public double Multiply(double num1, double num2) {
+		double ResultM = num1*num2;
+		return ResultM;
+	}
 }
